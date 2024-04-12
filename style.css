@@ -83,3 +83,21 @@ body{
         background-color: transparent;
         
       }
+
+      .btn{
+        width: 100% ;
+        display: flex;
+        justify-content: center;
+    }
+    
+    .reset a{
+    color: black;
+    }
+    
+    .reset {
+       width: 100%;
+       display: flex;
+       justify-content: center ;
+       align-items: center;    
+       margin-top: 20px;
+    }

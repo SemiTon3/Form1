@@ -31,3 +31,14 @@ body{
         height: 500px;
         object-fit: cover
     }
+
+    .form-right{
+        height:600px;
+        width: 50%;
+        background-color: rgb(144, 51, 231);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 20px;
+         
+    }

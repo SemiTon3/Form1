@@ -42,3 +42,7 @@ body{
         border-radius: 20px;
          
     }
+
+    .form-right-inner{
+        width: 90%;
+    }

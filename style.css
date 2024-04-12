@@ -46,3 +46,16 @@ body{
     .form-right-inner{
         width: 90%;
     }
+
+    .form-right h1{
+        margin-bottom: 30px;
+        text-align: center;
+     }
+    
+    .form-input{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        margin-bottom: 20px;
+        
+    }

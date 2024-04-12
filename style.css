@@ -20,3 +20,9 @@ body{
     gap: 100px;
    
 }
+.left {
+    width: 50%;
+    height: 600px;
+    display: flex;
+    align-items: center;
+    }
